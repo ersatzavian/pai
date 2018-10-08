@@ -7,3 +7,6 @@ __Previews/
 Pcb/__Previews/
 Sch/__Previews/
 Project\ Logs*
+Release/Sources/
+Release/Fabrication/
+Release/Assembly/
