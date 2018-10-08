@@ -47,8 +47,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -69,19 +69,19 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WQPOCMRC
 
 [Parameter1]
-Name=DrawnBy
-Value=Tom Byrne
+Name=Title
+Value=Pai
 
 [Parameter2]
 Name=Revision
 Value=01
 
 [Parameter3]
-Name=Title
-Value=Pai
+Name=DrawnBy
+Value=Tom Byrne
 
 [Configuration1]
 Name=Sources
