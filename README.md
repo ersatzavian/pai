@@ -2,9 +2,7 @@
 
 It's an opamp pi clone.
 
+![Board Image](/Docs/images/pai_img_3d.png)
+
 ## To-Do
-* Check clearance for audio jacks / define board outline
-* Draft
-* Route
-* Build
-* Test
+First release is done and Gerbers are ordered. Need to kit out BOM, build, and test. 
