@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\byrne\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for pai.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/10/18
+Time:       07:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment             Description                                                                                            Designator Footprint       Layer       Rotation 
+1910.000      -160.000      1µF                 "CAP CER 1UF 25V X7R 0603"                                                                             C14        SMD-0603C       TopLayer    90       
+500.000       -170.000      1µF                 "CAP CER 1UF 25V X7R 0603"                                                                             C13        SMD-0603C       TopLayer    180      
+150.000       -1450.000     STEREO_JACK         "CONN JACK STEREO 6.35MM PNL MNT"                                                                      J3         STEREO_JACK_HDR TopLayer    90       
+800.000       -318.425      CAP-POL             "CAP ALUM 10UF 20% 25V RADIAL"                                                                         C6         CAP_TH_5X12_L5  TopLayer    90       
+1075.000      -671.575      CAP-POL             "CAP ALUM 220UF 20% 35V THRU HOLE"                                                                     C1         CAP_TH_10X14_L5 TopLayer    270      
+300.000       -990.000      UA741CP             "General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)"       U3         TI-P8           TopLayer    90       
+1640.000      -320.000      RC4558P             "Dual General-Purpose Operational Amplifier, 10 to 30 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" U2         TI-P8           TopLayer    360      
+300.000       -440.000      UA741CP             "General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)"       U1         TI-P8           TopLayer    270      
+1075.000      -1450.000     3PDT_SW_SOLDERBOARD ""                                                                                                     SW1        3PDT_HDR        TopLayer    90       
+438.000       -1269.515     470k                "RES SMD 470K OHM 5% 1/10W 0603"                                                                       R23        SMD-0603-RES    TopLayer    180      
+1610.000      -849.488      5.23k               "RES SMD 5.23K OHM 1% 1/10W 0603"                                                                      R22        SMD-0603-RES    TopLayer    180      
+220.000       -1270.000     8.2k                "RES SMD 8.2K OHM 5% 1/10W 0603"                                                                       R19        SMD-0603-RES    TopLayer    180      
+600.000       -520.000      POT                 "Potentiometer, 1k, Linear Taper, Trim, Single Gang, Surface Mount"                                    R18        POT_TT35W       TopLayer    90       
+1820.000      -849.488      1.2k                "RES SMD 1.2K OHM 5% 1/10W 0603"                                                                       R17        SMD-0603-RES    TopLayer    360      
+45.000        -1148.000     1M                  "RES SMD 1M OHM 5% 1/10W 0603"                                                                         R16        SMD-0603-RES    TopLayer    180      
+1250.000      -1274.998     1.2k                "RES SMD 1.2K OHM 5% 1/10W 0603"                                                                       R15        SMD-0603-RES    TopLayer    90       
+47.000        -924.512      820k                "RES SMD 820K OHM 5% 1/10W 0603"                                                                       R14        SMD-0603-RES    TopLayer    180      
+1910.000      -456.024      47                  "RES SMD 47 OHM 5% 1/10W 0603"                                                                         R13        SMD-0603-RES    TopLayer    90       
+1910.000      -380.000      62k                 "RES SMD 62K OHM 5% 1/10W 0603"                                                                        R12        SMD-0603-RES    TopLayer    270      
+1359.488      -490.000      1M                  "RES SMD 1M OHM 5% 1/10W 0603"                                                                         R5         SMD-0603-RES    TopLayer    270      
+1910.000      -539.024      47k                 "RES SMD 47K OHM 5% 1/10W 0603"                                                                        R9         SMD-0603-RES    TopLayer    270      
+1360.000      -156.000      10k                 "RES SMD 10K OHM 5% 1/10W 0603"                                                                        R8         SMD-0603-RES    TopLayer    270      
+1359.488      -330.000      56k                 "RES SMD 56K OHM 5% 1/10W 0603"                                                                        R6         SMD-0603-RES    TopLayer    90       
+1359.488      -240.000      330k                "RES SMD 330K OHM 5% 1/10W 0603"                                                                       R7         SMD-0603-RES    TopLayer    90       
+1910.000      -300.000      560k                "RES SMD 560K OHM 5% 1/10W 0603"                                                                       R10        SMD-0603-RES    TopLayer    90       
+345.000       -168.976      220k                "RES SMD 220K OHM 5% 1/4W 0603"                                                                        R4         SMD-0603-RES    TopLayer    360      
+425.000       -168.976      220k                "RES SMD 220K OHM 5% 1/4W 0603"                                                                        R3         SMD-0603-RES    TopLayer    180      
+580.000       -170.000      47                  "RES SMD 47 OHM 5% 1/4W 0603"                                                                          R2         SMD-0603-RES    TopLayer    360      
+160.000       -130.000      POT                 "Potentiometer, 1k, Linear Taper, Trim, Single Gang, Surface Mount"                                    R1         POT_TT35W       TopLayer    90       
+1720.000      -1450.000     MONO_JACK           "CONN JACK MONO 6.35MM PNL MNT"                                                                        J4         MONO_JACK_HDR   TopLayer    90       
+2020.000      -1450.000     9V_BATT             "BATTERY CONNECT SNAP 9V 4" LEADS"                                                                     J2         PWR_JACK_HDR    TopLayer    90       
+1050.000      -50.000       PWR_JACK_SW         "CONN PWR JACK 2X5.5MM SOLDER"                                                                         J1         PWR_JACK_SW_HDR TopLayer    270      
+760.000       -1200.000     DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D7         DO35-2_1N914    TopLayer    90       
+660.000       -1200.000     DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D6         DO35-2_1N914    TopLayer    90       
+558.976       -1200.000     DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D5         DO35-2_1N914    TopLayer    90       
+780.000       -890.000      DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D4         DO35-2_1N914    TopLayer    90       
+680.000       -890.000      DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D3         DO35-2_1N914    TopLayer    90       
+580.000       -890.000      DIO-GEN             "DIODE GEN PURP 75V 200MA DO35"                                                                        D2         DO35-2_1N914    TopLayer    90       
+328.000       -1269.515     15pF                "CAP CER 15PF 50V NP0 0603"                                                                            C12        SMD-0603C       TopLayer    180      
+1540.000      -850.000      10000pF             "CAP CER 10000PF 25V X7R 0603"                                                                         C11        SMD-0603C       TopLayer    360      
+1680.000      -850.000      1µF                 "CAP CER 1UF 25V X7R 0603"                                                                             C10        SMD-0603C       TopLayer    360      
+1972.000      -887.000      CAP-POL             "CAP ALUM 4.7UF 20% 25V RADIAL"                                                                        C9         CAP_TH_5X12_L2  TopLayer    90       
+1750.000      -849.488      10000pF             "CAP CER 10000PF 25V X7R 0603"                                                                         C8         SMD-0603C       TopLayer    180      
+110.000       -1270.000     0.22µF              "CAP CER 0.22UF 25V X7R 0603"                                                                          C7         SMD-0603C       TopLayer    360      
+1910.000      -610.000      10000pF             "CAP CER 10000PF 25V X7R 0603"                                                                         C5         SMD-0603C       TopLayer    90       
+1359.488      -410.000      0.15µF              "CAP CER 0.15UF 50V X7R 0603"                                                                          C4         SMD-0603C       TopLayer    90       
+1910.000      -230.000      4700pF              "CAP CER 4700PF 25V X7R 0603"                                                                          C3         SMD-0603C       TopLayer    270      
+270.000       -169.488      0.22µF              "CAP CER 0.22UF 25V X7R 0603"                                                                          C2         SMD-0603C       TopLayer    180      
+272.500       -714.000      POT                 "Potentiometer, 100k, Log Taper, 16mm, Single Gang, TH RA"                                             R21        POT_16MM_TH_RA  BottomLayer 180      
+1062.500      -1064.000     POT                 "Potentiometer, 10k, Linear Taper, 16mm, Single Gang, TH RA"                                           R20        POT_16MM_TH_RA  BottomLayer 180      
+1852.500      -714.000      POT                 "Potentiometer, 10k, Linear Taper, 16mm, Single Gang, TH RA"                                           R11        POT_16MM_TH_RA  BottomLayer 180      
+1062.500      -1275.000     LED-Blue            "LED BLUE CLEAR T-1 3/4 T/H"                                                                           D1         LED_TH_5MM_BLUE BottomLayer 90       
