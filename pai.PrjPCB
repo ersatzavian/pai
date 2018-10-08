@@ -71,17 +71,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQPOCMRC
 
+[Document3]
+DocumentPath=pai.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pai\Design Rule Check - pai.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Title
-Value=Pai
+Name=DrawnBy
+Value=Tom Byrne
 
 [Parameter2]
 Name=Revision
 Value=01
 
 [Parameter3]
-Name=DrawnBy
-Value=Tom Byrne
+Name=Title
+Value=Pai
 
 [Configuration1]
 Name=Sources
