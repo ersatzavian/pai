@@ -10,3 +10,4 @@ Project\ Logs*
 Release/Sources/
 Release/Fabrication/
 Release/Assembly/
+Release/*.zip

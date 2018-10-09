@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: pai.GBR   10/9/2018  7:15:46 AM
+Gerber File Extension Report For: pai.GBR   10/9/2018  3:40:46 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -11,6 +11,7 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GTL                Component Side                          
 .GBL                Bottom Layer                            
+.GBS                Solder Side                             
 .GM1                Mechanical 1                            
 .GM7                Mechanical 7                            
 .GM13               Mechanical 13                           
