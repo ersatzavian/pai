@@ -127,78 +127,42 @@ DocumentPath=Project Outputs for pai\pai.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Release\Gerber\pai.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=Project Outputs for pai\pai.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Release\Gerber\pai.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Release\Gerber\pai.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for pai\pai.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for pai\pai.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Release\Gerber\pai.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for pai\pai.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Release\Gerber\pai.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for pai\pai.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Release\Gerber\pai.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for pai\pai.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Release\Gerber\pai.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for pai\pai.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for pai\pai.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Release\Gerber\pai.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for pai\pai.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Release\Gerber\pai.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for pai\pai.TXT
 DItemRevisionGUID=
 
@@ -839,6 +803,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
