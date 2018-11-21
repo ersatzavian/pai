@@ -7,7 +7,7 @@ It's an opamp pi clone.
 ## Known Issues - Rev 01
 * U7 stage is just hella wrong. 
 ![U7 Issue](/Docs/reworks/Rev01/u7_issue.jpg)
-![U7 Rework](/Docs/reworks/Rev01/U7_rework.PNG)
+![U7 Rework](/Docs/reworks/Rev01/U7_rework.jpg)
 * All knobs are counter-clockwise-to-increase (backwards). Fixable, but maybe not worth it if it's already assembled.
 ![Fix Sustain Knob](/Docs/reworks/Rev01/sus_knob_flip.PNG)
 ![Fix Tone Knob](/Docs/reworks/Rev01/tone_knob_flip.PNG)
