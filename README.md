@@ -1,10 +1,14 @@
 # Pai
 
-It's an opamp pi clone.
+It's an opamp pi clone. 
 
 ![Board Image](/Docs/images/pai_img_3d.png)
 
 With the bug fixes below, I've played mine and it sounds good. Haven't released a version with the bugs fixed yet, might do that over Christmas break if I've got a little time. 
+
+#### Missing from BOM
+* Designed to fit 4S125B enclosure from [Mammoth Electronics, Predrill option VY41, Jack location V Side (recommend orange powder coat) | https://www.mammothelectronics.com/products/4s125b-enclosure?variant=41945282515].
+* BOM calls out Mammoth [3PDT switch solder assist board|https://www.mammothelectronics.com/products/large-3pdt-wiring-board?variant=25345638407], but omits switch. Most PCB-mount 3PDT latching footswitches should fit; recommend [FS3PDT-LP from Mammoth|https://www.mammothelectronics.com/products/4sfs3pdt-lp-3pdt-footswitch-with-pc-mount-terminals?variant=25354110023].
 
 #### Possible future tweaks: 
 * Swapping out diodes to tweak clipping. 
