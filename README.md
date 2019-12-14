@@ -2,7 +2,7 @@
 
 It's an opamp pi clone. 
 
-![Board Image](/Docs/images/pai_img_3d.png)
+![Board Image](/Docs/images/img_front.JPG)
 
 Rev 02 has been released to correct Rev 01 bugs but has not yet been built and verified.
 
