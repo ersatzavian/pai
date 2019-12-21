@@ -18,6 +18,7 @@ Rev 02 has been released to correct Rev 01 bugs but has not yet been built and v
 ### Known Issues
 |Issue|Workaround|Fix|
 | --- | ---- | ---- |
+| Input and Output Bypass switches are drawn wrong (common pole facing wrong side) but work correctly (i.e. as intended, not as drawn) | N/A | Update symbol |
 
 ## To-Do
 * Create enclosure stencil (laser cutter stencil requires decent absolute registration, which Glowforge can't do yet).
