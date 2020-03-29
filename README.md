@@ -4,7 +4,7 @@ It's an opamp pi clone.
 
 ![Board Image](/Docs/images/img_front.JPG)
 
-Rev 02 has been released to correct Rev 01 bugs but has not yet been built and verified.
+Rev 02 has been released to correct Rev 01 bugs, and has been built and verified.
 
 #### Missing from BOM
 * Designed to fit 4S125B enclosure from [Mammoth Electronics, Predrill option VY41, Jack location V Side (recommend orange powder coat) | https://www.mammothelectronics.com/products/4s125b-enclosure?variant=41945282515].
